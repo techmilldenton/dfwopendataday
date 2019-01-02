@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hack NTX
+title: DFW Open Data Day
 email: sponsor@techmill.co
 description: >- # this means to ignore newlines until "baseurl:"
-  Hack NTX is a civic technology hackathon focused on spurring civic engagement, utilizing open data, improving open government policies, and bolstering smart city innovations.
+  DFW Open Data Day is a civic technology event focused on spurring civic engagement improving open government policies through open data.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.hackntx.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.dfwopendataday.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /blog/:year/:month/:day/:title
 
 # Social
@@ -44,7 +44,7 @@ sass:
   # style: compressed
 
 # SEO / Social
-google_analytics: UA-51689839-6
+google_analytics: UA-51689839-7
 addthis: ra-54305991214faa92
 
 author: techmilldenton

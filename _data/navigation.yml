@@ -4,14 +4,6 @@ toc:
     children:
       - title: Resources
         url: /resources
-      - title: Challenges
-        url: /challenges
-      - title: Rules
-        url: /rules
-      - title: Judging Criteria
-        url: /judging-criteria
-      - title: Prizes
-        url: /prizes
       - title: Code of Conduct
         url: /conduct
       - title: About TechMill
@@ -25,7 +17,7 @@ toc:
   - title: Blog
     url: /blog
   - title: Register
-    url: https://localhackday.mlh.io/lhd-2018/events/909-techmill-inc
+    url: https://www.eventbrite.com/e/dfw-open-data-day-tickets-54305774032
     class: "btn btn-success"
     target: "_blank"
 footer:

@@ -8,6 +8,16 @@
 - name: Smart City
   class: brand-success
   items:
+    - name: City of Dallas
+      url: https://dallascityhall.com
+      img: "https://d3926qxcw0e1bh.cloudfront.net/pages_avatar_photos/97/55/9755a161e31a57d494e396d811a3d077.jpg.256x256.jpg"
+      social_links:
+        - name: facebook
+          url: https://www.facebook.com/DallasCityHall
+        - name: twitter
+          url: https://twitter.com/cityofdallas
+        - name: linkedin
+          url: https://www.linkedin.com/company/12685
 
 # City Planner sponsors
 - name: City Planner
@@ -30,24 +40,6 @@
           url: https://www.linkedin.com/company/techmill-llc
         - name: github
           url: https://github.com/techmilldenton
-    - name: Major League Hacking (MLH)
-      url: https://mlh.io
-      img: /assets/img/sponsors/mlh-logo.png
-      social_links:
-        - name: facebook
-          url: https://www.facebook.com/MajorLeagueHacking
-        - name: twitter
-          url: https://twitter.com/mlhacks
-    - name: Heroku
-      url: https://www.heroku.com/
-      img: /assets/img/sponsors/heroku.png
-      social_links:
-        - name: github
-          url: https://github.com/heroku
-        - name: facebook
-          url: https://facebook.com/heroku
-        - name: twitter
-          url: https://twitter.com/heroku
 
 # Community sponsors
 - name: Community
@@ -63,18 +55,6 @@
           url: https://twitter.com/opendenton
         - name: github
           url: https://github.com/opendenton
-    - name: Stoke
-      url: https://stokedenton.com/
-      img: /assets/img/sponsors/stoke.png
-      social_links:
-        - name: facebook
-          url: https://facebook.com/stokedenton
-        - name: twitter
-          url: https://twitter.com/stokedenton
-        - name: linkedin
-          url: https://linkedin.com/company/stokedenton
-        - name: instagram
-          url: https://instagram.com/stokedenton
     - name: UNT ASIS&T
       url: https://unt.asist.org/
       img: /assets/img/sponsors/ntis2.png
@@ -85,11 +65,3 @@
           url: https://twitter.com/untasist
         - name: paper-plane
           url: mailto:untasist@gmail.com
-    - name: Novam
-      url: https://novam.ai/
-      img: /assets/img/sponsors/novam.png
-      social_links:
-        - name: facebook
-          url: https://www.facebook.com/novamintl
-        - name: twitter
-          url: https://twitter.com/NOVAMIntl

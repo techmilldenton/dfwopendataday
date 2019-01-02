@@ -7,9 +7,7 @@ img: assets/img/tools.jpg
 ---
 <p>&nbsp;</p>
 
-For the hackathon, there are an abundant amount of resources provided by Major League Hacking as part of Local Hack Day, which includes all things in Github's Education pack and a $100 credit for Azure from Microsoft. You can find a list of all MLH resources at [http://lhd.mlh.io/live](http://lhd.mlh.io/live)
-
-Most of the tools in here are limited to students only, but fret not! We've done our research and have created a list of free and cheap resources below that are open to anyone!
+For the event, there are an abundant amount of resources and datasets being provided by various cities and vendors. In addition, we've curated a list of free and cheap resources below that are open to anyone to build with!
 
 {% assign categories = "" | split: ',' %}
 {% for item in site.data.resources %}

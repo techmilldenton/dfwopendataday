@@ -7,9 +7,9 @@ permalink: /sponsors
 <div class="container">
 	<div class="row">
 		<div class="col-md-8 offset-md-2 lead pt-5 pb-5">
-			Hack NTX is a 100% community organized hackathon by TechMill, a registered 501(c)(3) nonprofit focused on building community through networking, events, and education.
+			DFW Open Data Day is a 100% community organized event by TechMill, a registered 501(c)(3) nonprofit focused on building community through networking, events, and education.
 			<br><br>
-			This event is a first of it's kind for our organization and our community. Since the founding of TechMill, we have had a long history of creating and supporting tech and smart city initiatives in our home city of Denton. Whether it was open data, government transparency, or civic engagement - we've always had a soft spot for civic technology.
+			Since the founding of TechMill, we have had a long history of creating and supporting tech and smart city initiatives in our home city of Denton. Whether it was open data, government transparency, or civic engagement - we've always had a soft spot for civic technology.
 			<br><br>
 			For 2018, a successful event means curating a list of projects with attainable, productive outcomes within a day, and providing the top teams (as chosen by the judges) with cash prizes. We want everyone to have a great time, become more aware of the smart city initiatives around North Texas, and provide the organizations with projects with validation or prototype of their innovative ideas.
 			<br><br>
@@ -90,7 +90,7 @@ permalink: /sponsors
 			<p>
 				<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H627FPUS3CL6E&source=url" title="Smart City Express Pay" alt="$5000 donation link" class="btn btn-success">Express Pay</a>
 				<br>
-				<a class="" href="mailto:sponsor@techmill.co?cc=kyletaylored@gmail.com&subject=HackNTX Sponsorship Inquiry&body=I'm interested in sponsoring the Hack NTX event.%0D%0A%0D%0ACompany name: <company name>%0D%0ACompany contact: <your name>%0D%0ASponsorship type: <in-kind | cash>%0D%0ASponsorship value: < amount >%0D%0AComments: <add below>">Contact Us</a>
+				<a class="" href="mailto:sponsor@techmill.co?cc=kyletaylored@gmail.com&subject=DFW Open Data Day Sponsorship Inquiry&body=I'm interested in sponsoring the DFW Open Data Day event.%0D%0A%0D%0ACompany name: <company name>%0D%0ACompany contact: <your name>%0D%0ASponsorship type: <in-kind | cash>%0D%0ASponsorship value: < amount >%0D%0AComments: <add below>">Contact Us</a>
 				</p>
 			</div>
 			<div class="col-6 col-md-2 ml-auto mr-auto mb-3">
@@ -114,7 +114,7 @@ permalink: /sponsors
 				<p>
 					<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H627FPUS3CL6E&source=url" class="btn btn-success" title="City Planner Express Pay" alt="$2500 donation link">Express Pay</a>
 					<br>
-					<a class="" href="mailto:sponsor@techmill.co?cc=kyletaylored@gmail.com&subject=HackNTX Sponsorship Inquiry&body=I'm interested in sponsoring the Hack NTX event.%0D%0A%0D%0ACompany name: <company name>%0D%0ACompany contact: <your name>%0D%0ASponsorship type: <in-kind | cash>%0D%0ASponsorship value: < amount >%0D%0AComments: <add below>">Contact Us</a>
+					<a class="" href="mailto:sponsor@techmill.co?cc=kyletaylored@gmail.com&subject=DFW Open Data Day Sponsorship Inquiry&body=I'm interested in sponsoring the DFW Open Data Day event.%0D%0A%0D%0ACompany name: <company name>%0D%0ACompany contact: <your name>%0D%0ASponsorship type: <in-kind | cash>%0D%0ASponsorship value: < amount >%0D%0AComments: <add below>">Contact Us</a>
 					</p>
 				</div>
 				<div class="col-6 col-md-2 ml-auto mr-auto mb-3 order-md-2">
@@ -125,7 +125,6 @@ permalink: /sponsors
 						<li>Opportunity to display sign or banner at the event</li>
 						<li>Booth or table at event</li>
 						<li>2 participant and/or audience tickets</li>
-						<li>Logo included on <a href="#shirt">hackathon shirt*</a></li>
 						<li>Includes everything in <strong>Civic Duties</strong></li>
 					</ul>
 				</div>
@@ -137,7 +136,7 @@ permalink: /sponsors
 					<p>
 						<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H627FPUS3CL6E&source=url" title="Civic Duties Express Pay" alt="General donation link" class="btn btn-success">Express Pay</a>
 						<br>
-						<a class="" href="mailto:sponsor@techmill.co?cc=kyletaylored@gmail.com&subject=HackNTX Sponsorship Inquiry&body=I'm interested in sponsoring the Hack NTX event.%0D%0A%0D%0ACompany name: <company name>%0D%0ACompany contact: <your name>%0D%0ASponsorship type: <in-kind | cash>%0D%0ASponsorship value: < amount >%0D%0AComments: <add below>">Contact Us</a>
+						<a class="" href="mailto:sponsor@techmill.co?cc=kyletaylored@gmail.com&subject=DFW Open Data Day Sponsorship Inquiry&body=I'm interested in sponsoring the DFW Open Data Day event.%0D%0A%0D%0ACompany name: <company name>%0D%0ACompany contact: <your name>%0D%0ASponsorship type: <in-kind | cash>%0D%0ASponsorship value: < amount >%0D%0AComments: <add below>">Contact Us</a>
 						</p>
 					</div>
 					<div class="col-6 col-md-2 ml-auto mr-auto mb-3">
@@ -157,13 +156,11 @@ permalink: /sponsors
 				<div class="row">
 					<div class="text-center col-md-12">
 						<h3 class="title">Questions?</h3>
-						<h3 class="">Contact us at <a class="" href="mailto:sponsor@techmill.co?subject=Hack NTX Sponsorship Inquiry">sponsor@techmill.co</a></h3>
+						<h3 class="">Contact us at <a class="" href="mailto:sponsor@techmill.co?subject=DFW Open Data Day Sponsorship Inquiry">sponsor@techmill.co</a></h3>
 					</div>
 					<br>
 					<div class="col-md-10 offset-md-1 pt-5 pb-3">
-							<em>TechMill, Inc is a 501(c)(3) nonprofit organization as determined by the IRS. Donations to TechMill may be tax deductible depending on details. Consult your tax professional.<br>
-								<br>
-							<span id="shirt">* Sponsorship payment will need to be made before shirt production begins (1-2 weeks before event)</span></em>
+							<em>TechMill, Inc is a 501(c)(3) nonprofit organization as determined by the IRS. Donations to TechMill may be tax deductible depending on details. Consult your tax professional.</em>
 					</div>
 				</div>
 			</div>

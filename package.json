@@ -1,7 +1,7 @@
 {
   "name": "dfwopendataday",
   "version": "1.0.0",
-  "description": "Static site for Hack NTX",
+  "description": "Static site for DFW Open Data Day",
   "main": "gulpfile.js",
   "directories": {
     "example": "examples"

@@ -1,8 +1,8 @@
-# HackNTX Site
+# DFW Open Data Day Site
 
-URL: https://www.hackntx.com
+URL: http://www.dfwopendataday.com
 
-Hack NTX is a civic technology hackathon focused on spurring civic engagement, utilizing open data, improving open government policies, and bolstering smart city innovations.
+DFW Open Data Day is a civic technology hackathon focused on spurring civic engagement, utilizing open data, improving open government policies, and bolstering smart city innovations.
 
 
 ## How to install/run locally

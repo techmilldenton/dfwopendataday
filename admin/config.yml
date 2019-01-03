@@ -29,31 +29,16 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Content", name: "content", widget: "markdown"}
-  - name: "pages"
-    label: "Pages"
-    files:
-      - label: "Contact"
-        name: "contact"
-        file: "content/contact.yml"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Intro, name: intro, widget: markdown}
-          - label: Team
-            name: team
-            widget: list
-            fields:
-              - {label: Name, name: name, widget: string}
-              - {label: Position, name: position, widget: string}
-              - {label: Photo, name: photo, widget: image}
-      - label: "Locations Page"
-        name: "locations"
-        file: "site/content/locations.yml"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Intro, name: intro, widget: markdown}
-          - label: Locations
-            name: locations
-            widget: list
-            fields:
-              - {label: Name, name: name, widget: string}
-              - {label: Address, name: address, widget: string}
+    - name: "page"
+      label: "Page"
+      folder: "pages"
+      sort: "title:asc"
+      create: false
+      slug: "{{slug}}"
+      fields:
+        - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+        - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+        - {label: "Permalink", name: "permalink", widget: "hidden"}
+        - {label: "Section", name: "section", widget: "hidden", default: "{{name}}"}
+        - {label: "Intro Paragraph", name: "intro_paragraph", widget: "markdown", required: false}
+        - {label: "Body", name: "body", widget: "markdown", required: false}

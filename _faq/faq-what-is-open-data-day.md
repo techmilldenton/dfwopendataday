@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What is Open Data Day?
-content: >-
+body: >-
   Open Data Day is a gathering of citizens to write applications, liberate data,
   create visualizations and publish analyses using open public data to show
   support for and encourage the adoption of municipal open data policies. It is

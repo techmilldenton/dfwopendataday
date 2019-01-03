@@ -195,11 +195,11 @@ layout: home
           <h2 class="title text-center">Frequently Asked Questions</h2>
           <div class="row">
 
-            {%- for faq in site.data.faq -%}
+            {%- for faq in site.faq -%}
             <div class="col-md-6 mb-3">
               <div class="card p-3 m-0">
                 <h4 class="card-title">{{ faq.title }}</h4>
-                <p>{{ faq.content }}</p>
+                <p>{{ faq.body }}</p>
               </div>
             </div>
             {%- endfor -%}

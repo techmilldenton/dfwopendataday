@@ -64,6 +64,8 @@ social:
 collections:
   people:
     output: false
+  faq:
+    output: false
 
 # Jekyll defaults
 defaults:

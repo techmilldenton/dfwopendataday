@@ -4,7 +4,7 @@ layout: default
 permalink: /conduct
 ---
 
-### By registering for HackNTX event you agree to the following.
+### By registering for Open Data Day event you agree to the following.
 
 
 
@@ -59,5 +59,3 @@ If a participant engages in harassing behavior, the hackathon organizers may tak
 We expect participants to follow these rules at hackathon and workshop venues and hackathon-related social events.
 
 <hr>
-
-As an MLH associated event, you also agree to the Code of Conduct provided by Major League Hacking, which can be found here: <a href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf" target="_blank">MLH Code of Conduct</a>

@@ -8,8 +8,10 @@ toc:
         url: /conduct
       - title: About TechMill
         url: /about-techmill
-  - title: Schedule
-    url: /schedule
+      - title: Schedule
+        url: /schedule
+  - title: Challenges
+    url: /challenges
   - title: Sponsors
     url: /sponsors
   - title: Contact

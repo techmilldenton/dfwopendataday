@@ -19,3 +19,41 @@ collections:
       - {label: "Email", name: "email", widget: "string"}
       - {label: "Twitter", name: "twitter", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "faq" # Used in routes, e.g., /admin/collections/blog
+    label: "FAQ" # Used in the UI
+    folder: "_faq" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "faq-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    output: false
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Content", name: "content", widget: "markdown"}
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "Contact"
+        name: "contact"
+        file: "content/contact.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Intro, name: intro, widget: markdown}
+          - label: Team
+            name: team
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Position, name: position, widget: string}
+              - {label: Photo, name: photo, widget: image}
+      - label: "Locations Page"
+        name: "locations"
+        file: "site/content/locations.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Intro, name: intro, widget: markdown}
+          - label: Locations
+            name: locations
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Address, name: address, widget: string}

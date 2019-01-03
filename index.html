@@ -228,8 +228,8 @@ layout: home
                   <div class="card-body">
                     <address class="lead">
                       <strong>{{ site.data.event.venue.name }}</strong><br>
-                      6170 Research Rd<br>
-                      Frisco, TX 75033
+                      {{ site.data.event.venue.address.street }}<br>
+                      {{ site.data.event.venue.address.city }}, {{ site.data.event.venue.address.state }} {{ site.data.event.venue.address.zip }}
                     </address>
                   </div>
                   <div class="pb-2">

@@ -51,7 +51,7 @@ author: techmilldenton
 twitter:
   username: techmilldenton
   card: summary_large_image
-logo: /assets/img/hackntx.png
+logo: /assets/img/odd-texas.png
 social:
     name: TechMill Denton
     links:
@@ -74,7 +74,7 @@ defaults:
     values:
       layout: "page"
       image:
-        path: assets/img/social/facebook-Linked_Image___hackntx-social.jpg
+        path: assets/img/social/facebook-Linked_Image___odd-social.jpg
         height: 640
         width: 1280
   - scope:

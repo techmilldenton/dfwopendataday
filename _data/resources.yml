@@ -78,8 +78,8 @@
   twitter: startupstash
   categories: ['reference']
   note: Alternative source for general tech and non-technical resources.
-- name: Learn How To Program
-  url: https://www.learnhowtoprogram.com/tracks
+- name: Epicodus
+  url: https://www.epicodus.com
   twitter: epicodus
   categories: ['education']
   note: Free platform with courses for learning how to program.

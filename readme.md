@@ -13,7 +13,7 @@ This is a static site hosted on Github Pages using the Jekyll static site genera
 - Navigate to the repo directory and install dependencies:
 ```bash
    bundle install
-   npm install -D
+   npm install
 ```
 - Run Jekyll: `jekyll serve` or `jekyll s`
    - If this doesn't work, you can try `bundle exec jekyll serve`

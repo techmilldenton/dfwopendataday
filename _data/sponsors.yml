@@ -23,6 +23,12 @@
 - name: City Planner
   class: brand-info
   items:
+   - name: City of Denton
+      url: www.cityofdenton.com
+      img: /assets/img/sponsors/denton-logo.jpg
+   - name: City of Addison
+      url: https://addisontexas.net
+      img: /assets/img/sponsors/addison-logo.png
 
 # Civic Duties sponsors
 - name: Civic Duties
@@ -55,6 +61,9 @@
           url: https://twitter.com/opendenton
         - name: github
           url: https://github.com/opendenton
+    - name: Addison Tree House 
+      url: https://www.opendenton.com
+      img: /assets/img/sponsors/addisontreehouse.jpg
     - name: UNT ASIS&T
       url: https://unt.asist.org/
       img: /assets/img/sponsors/ntis2.png

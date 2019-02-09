@@ -23,10 +23,10 @@
 - name: City Planner
   class: brand-info
   items:
-   - name: City of Denton
+    - name: City of Denton
       url: www.cityofdenton.com
       img: /assets/img/sponsors/denton-logo.jpg
-   - name: City of Addison
+    - name: City of Addison
       url: https://addisontexas.net
       img: /assets/img/sponsors/addison-logo.png
 

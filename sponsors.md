@@ -146,7 +146,7 @@ permalink: /sponsors
 				<div class="row">
 					<div class="text-center col-md-12">
 						<h3 class="title">Questions?</h3>
-						<h3 class="">Contact us at <a class="" href="mailto:sponsor@techmill.co?subject=DFW Open Data Day Sponsorship Inquiry">sponsor@techmill.co</a></h3>
+						<h3 class="">Contact us at <a class="sponsor-email-btn" href="mailto:sponsor@techmill.co?subject=DFW Open Data Day Sponsorship Inquiry">sponsor@techmill.co</a></h3>
 					</div>
 					<br>
 					<div class="col-md-10 offset-md-1 pt-5 pb-3">

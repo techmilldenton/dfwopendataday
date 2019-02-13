@@ -16,7 +16,7 @@ permalink: /sponsors
 			<h3 class="title text-center" id="corporate-sponsor">Corporate Sponsor?</h3>
 			We need <strong style="font-weight: bold;">YOU!</strong> This event could not be held without contributions from organizations like you. TechMill is a volunteer led, registed 501(c)(3) nonprofit who has been organizing startup and tech events since 2014 - Startup Weekend, Open Data Day, Bootstrap Denton, and a long list of hands-on educational workshops. Any excess donations that exceed our event expense budget is reinvested back into these community initiatives.
 			<br><br>
-			Below is an overview of the types of sponsorships available at different tiers, with an express pay option. Prefer an actual invoice? Contact us at <a href="mailto:sponsor@techmill.com">sponsor@techmill.com</a> and we can help you out.
+			Below is an overview of the types of sponsorships available at different tiers, with an express pay option. Prefer an actual invoice? Contact us at <a class="sponsor-email" href="mailto:sponsor@techmill.com">sponsor@techmill.com</a> and we can help you out.
 		</div>
 	</div>
 	<hr>
@@ -82,7 +82,7 @@ permalink: /sponsors
 			<p>
 				<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H627FPUS3CL6E&source=url" title="Smart City Express Pay" alt="$1500 donation link" class="btn btn-success">Express Pay</a>
 				<br>
-				<a class="" href="mailto:sponsor@techmill.co?cc=kyletaylored@gmail.com&subject=DFW Open Data Day Sponsorship Inquiry&body=I'm interested in sponsoring the DFW Open Data Day event.%0D%0A%0D%0ACompany name: <company name>%0D%0ACompany contact: <your name>%0D%0ASponsorship type: <in-kind | cash>%0D%0ASponsorship value: < amount >%0D%0AComments: <add below>">Contact Us</a>
+				<a class="sponsor-email" href="mailto:sponsor@techmill.co?cc=kyletaylored@gmail.com&subject=DFW Open Data Day Sponsorship Inquiry&body=I'm interested in sponsoring the DFW Open Data Day event.%0D%0A%0D%0ACompany name: <company name>%0D%0ACompany contact: <your name>%0D%0ASponsorship type: <in-kind | cash>%0D%0ASponsorship value: < amount >%0D%0AComments: <add below>">Contact Us</a>
 				</p>
 			</div>
 			<div class="col-6 col-md-2 ml-auto mr-auto mb-3">
@@ -105,7 +105,7 @@ permalink: /sponsors
 				<p>
 					<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H627FPUS3CL6E&source=url" class="btn btn-success" title="City Planner Express Pay" alt="$1000 donation link">Express Pay</a>
 					<br>
-					<a class="" href="mailto:sponsor@techmill.co?cc=kyletaylored@gmail.com&subject=DFW Open Data Day Sponsorship Inquiry&body=I'm interested in sponsoring the DFW Open Data Day event.%0D%0A%0D%0ACompany name: <company name>%0D%0ACompany contact: <your name>%0D%0ASponsorship type: <in-kind | cash>%0D%0ASponsorship value: < amount >%0D%0AComments: <add below>">Contact Us</a>
+					<a class="sponsor-email" href="mailto:sponsor@techmill.co?cc=kyletaylored@gmail.com&subject=DFW Open Data Day Sponsorship Inquiry&body=I'm interested in sponsoring the DFW Open Data Day event.%0D%0A%0D%0ACompany name: <company name>%0D%0ACompany contact: <your name>%0D%0ASponsorship type: <in-kind | cash>%0D%0ASponsorship value: < amount >%0D%0AComments: <add below>">Contact Us</a>
 					</p>
 				</div>
 				<div class="col-6 col-md-2 ml-auto mr-auto mb-3 order-md-2">
@@ -126,7 +126,7 @@ permalink: /sponsors
 					<p>
 						<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H627FPUS3CL6E&source=url" title="Civic Duties Express Pay" alt="$500 donation link" class="btn btn-success">Express Pay</a>
 						<br>
-						<a class="" href="mailto:sponsor@techmill.co?cc=kyletaylored@gmail.com&subject=DFW Open Data Day Sponsorship Inquiry&body=I'm interested in sponsoring the DFW Open Data Day event.%0D%0A%0D%0ACompany name: <company name>%0D%0ACompany contact: <your name>%0D%0ASponsorship type: <in-kind | cash>%0D%0ASponsorship value: < amount >%0D%0AComments: <add below>">Contact Us</a>
+						<a class="sponsor-email" href="mailto:sponsor@techmill.co?cc=kyletaylored@gmail.com&subject=DFW Open Data Day Sponsorship Inquiry&body=I'm interested in sponsoring the DFW Open Data Day event.%0D%0A%0D%0ACompany name: <company name>%0D%0ACompany contact: <your name>%0D%0ASponsorship type: <in-kind | cash>%0D%0ASponsorship value: < amount >%0D%0AComments: <add below>">Contact Us</a>
 						</p>
 					</div>
 					<div class="col-6 col-md-2 ml-auto mr-auto mb-3">
@@ -146,7 +146,7 @@ permalink: /sponsors
 				<div class="row">
 					<div class="text-center col-md-12">
 						<h3 class="title">Questions?</h3>
-						<h3 class="">Contact us at <a class="sponsor-email-btn" href="mailto:sponsor@techmill.co?subject=DFW Open Data Day Sponsorship Inquiry">sponsor@techmill.co</a></h3>
+						<h3 class="">Contact us at <a class="sponsor-email" href="mailto:sponsor@techmill.co?subject=DFW Open Data Day Sponsorship Inquiry">sponsor@techmill.co</a></h3>
 					</div>
 					<br>
 					<div class="col-md-10 offset-md-1 pt-5 pb-3">

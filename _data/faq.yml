@@ -13,8 +13,8 @@
 - title: What should I bring?
   content: All you need is yourself, your tech setup (laptop, charger, headphones, etc), and a great attitude - we'll provide the rest!
 - title: How else can I get involved?
-  content: We'd love to get you on our volunteering or mentoring teams! If you'd like to help, <a href="mailto:sponsor@techmill.co">send us an email</a>!. Also, be sure to follow us on Facebook and Twitter for updates!
+  content: We'd love to get you on our volunteering or mentoring teams! If you'd like to help, <a class="sponsor-email" href="mailto:sponsor@techmill.co">send us an email</a>!. Also, be sure to follow us on Facebook and Twitter for updates!
 - title: Guidelines
   content: Don't bring any firearms, knives, weapons, drugs, or alcohol. Don't use an old project - start a new trail instead! Also, please read our <a href="/conduct>Code of Conduct</a> and <a href="/rules">Rules</a>. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody (TL;DR be nice).
 - title: Other Questions?
-  content: Send us an email at <a href="mailto:sponsor@techmill.co">sponsor@techmill.co</a>, or message us on <a href="https://www.facebook.com/techmilldenton">Facebook</a>!
+  content: Send us an email at <a class="sponsor-email" href="mailto:sponsor@techmill.co">sponsor@techmill.co</a>, or message us on <a href="https://www.facebook.com/techmilldenton">Facebook</a>!

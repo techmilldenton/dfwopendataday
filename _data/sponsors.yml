@@ -29,6 +29,9 @@
     - name: City of Addison
       url: https://addisontexas.net
       img: /assets/img/sponsors/addison-logo.png
+    - name: City of Addison
+      url: https://www.nctcog.org
+      img: /assets/img/sponsors/NTCOG_logo.png
 
 # Civic Duties sponsors
 - name: Civic Duties

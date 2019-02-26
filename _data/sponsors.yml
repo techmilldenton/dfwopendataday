@@ -54,6 +54,16 @@
           url: https://www.facebook.com/roguemetrics
         - name: twitter
           url: https://twitter.com/roguemetrics
+    - name: Lifeblue
+      url: https://www.lifeblue.com
+      img: /assets/img/sponsors/lifeblue.png
+      social_links:
+        - name: facebook
+          url: https://www.facebook.com/mylifeblue
+        - name: twitter
+          url: https://twitter.com/lifeblue
+        - name: instagram
+          url: https://www.instagram.com/lifebluemedia
 
 # Community sponsors
 - name: Community

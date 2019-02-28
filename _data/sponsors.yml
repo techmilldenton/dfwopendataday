@@ -71,6 +71,16 @@
           url: https://twitter.com/UNTAnalytics
         - name: instagram
           url: https://www.instagram.com/UNT/
+    - name: BloomReach
+      url: https://www.bloomreach.com
+      img: /assets/img/sponsors/bloomreach_logo.png
+      social_links:
+        - name: facebook
+          url: https://www.facebook.com/bloomreach/
+        - name: twitter
+          url: https://twitter.com/bloomreach_tm
+        - name: instagram
+          url: https://www.instagram.com/lifeatbloomreach/?hl=en
 
 # Community sponsors
 - name: Community

@@ -23,20 +23,9 @@
 - name: City Planner
   class: brand-info
   items:
-    - name: City of Denton
-      url: www.cityofdenton.com
-      img: /assets/img/sponsors/denton-logo.jpg
-    - name: City of Addison
-      url: https://addisontexas.net
-      img: /assets/img/sponsors/addison-logo.png
-    - name: City of Addison
+    - name: North Central Texas Council of Governments
       url: https://www.nctcog.org
-      img: /assets/img/sponsors/NTCOG_logo.png
-
-# Civic Duties sponsors
-- name: Civic Duties
-  class: brand-warning
-  items:
+      img: /assets/img/sponsors/nctcog.jpg
     - name: TechMill
       url: https://techmill.co
       img: /assets/img/sponsors/techmillco.jpeg
@@ -49,6 +38,11 @@
           url: https://www.linkedin.com/company/techmill-llc
         - name: github
           url: https://github.com/techmilldenton
+
+# Civic Duties sponsors
+- name: Civic Duties
+  class: brand-warning
+  items:
     - name: Rogue Metrics
       url: https://www.roguemetrics.com
       img: /assets/img/sponsors/roguemetrics.jpg
@@ -68,15 +62,15 @@
         - name: instagram
           url: https://www.instagram.com/lifebluemedia
     - name: UNT Advanced Data Analytics
-      url: https://dataanalytics.unt.edu/ 
-      img: /assets/img/sponsors/UNT_advanced_data_analytics_logo.jpg
+      url: https://dataanalytics.unt.edu/
+      img: /assets/img/UNT_advanced_data_analytics_logo.jpg
       social_links:
         - name: facebook
-          url: https://www.facebook.com/northtexas 
+          url: https://www.facebook.com/northtexas
         - name: twitter
           url: https://twitter.com/UNTAnalytics
         - name: instagram
-          url: https://www.instagram.com/UNT/ 
+          url: https://www.instagram.com/UNT/
 
 # Community sponsors
 - name: Community
@@ -105,3 +99,9 @@
           url: https://twitter.com/untasist
         - name: paper-plane
           url: mailto:untasist@gmail.com
+    - name: City of Denton
+      url: www.cityofdenton.com
+      img: /assets/img/sponsors/denton-logo.jpg
+    - name: City of Addison
+      url: https://addisontexas.net
+      img: /assets/img/sponsors/addison-logo.png

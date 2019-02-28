@@ -67,6 +67,16 @@
           url: https://twitter.com/lifeblue
         - name: instagram
           url: https://www.instagram.com/lifebluemedia
+    - name: UNT Advanced Data Analytics
+      url: https://dataanalytics.unt.edu/ 
+      img: /assets/img/sponsors/UNT_advanced_data_analytics_logo.jpg
+      social_links:
+        - name: facebook
+          url: https://www.facebook.com/northtexas 
+        - name: twitter
+          url: https://twitter.com/UNTAnalytics
+        - name: instagram
+          url: https://www.instagram.com/UNT/ 
 
 # Community sponsors
 - name: Community

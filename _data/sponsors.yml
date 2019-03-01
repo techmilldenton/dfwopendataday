@@ -115,3 +115,13 @@
     - name: City of Addison
       url: https://addisontexas.net
       img: /assets/img/sponsors/addison-logo.png
+    - name: Datapolitan 
+      url: https://www.datapolitan.com
+      img: /assets/img/sponsors/datapolitan_transparent.png
+      social_links:
+        - name: facebook
+          url: https://facebook.com/datapolitan
+        - name: twitter
+          url: https://twitter.com/datapolitan
+        - name: github
+          url: https://github.com/datapolitan

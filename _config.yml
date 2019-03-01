@@ -67,6 +67,8 @@ collections:
     output: false
   faq:
     output: false
+  challenges:
+    output: false
 
 # Jekyll defaults
 defaults:

@@ -5,7 +5,7 @@ permalink: /schedule
 img: assets/img/schedule.jpg
 ---
 
-## Saturday, March 2nd
+## Saturday, March 3rd
 <div class="table-responsive">
 	<table class="table">
 		<thead>

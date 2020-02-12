@@ -36,7 +36,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate
-  - jekyll-redirect-from
 
 # SASS
 sass:
